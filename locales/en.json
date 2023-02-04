@@ -1,0 +1,7 @@
+{
+    "screen_help": "The Go Telegram Bot allows you to receive event notifications and to control the main functions of your system.\n\n",
+    "button_back": "BACK",
+    "button_menu_help": "Help",
+    "response_internal_err": "Internal error",
+    "response_please_wait": "Please wait, the process may take a little time..."
+}
